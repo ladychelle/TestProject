@@ -24,7 +24,7 @@ section div{
 section div:nth-child(1){
     position: relative;
     width: 50%;
-    background: url(img.png);
+    background: url(bg.jpg);
     background-size: cover;
     overflow: hidden;
 }
